@@ -36,7 +36,7 @@ html {
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
-  background-image: url('../IMG/logo.JPG'); /* tu imagen de hero */
+  background-image: url('../logo.jpg'); /* tu imagen de hero */
   background-size: cover; /* hace que la imagen cubra todo el contenedor */
   background-position: center center; /* centra la imagen */
   background-repeat: no-repeat; /* evita repetición */
